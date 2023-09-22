@@ -60,6 +60,7 @@ Give the Input Combinations according to the Truth Table amd then simulate the O
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: sivaram R
 RegisterNumber:  212222100050
+
 ## HALF ADDER
 ```
 module Experiment03(A,B,S,C);
