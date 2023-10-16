@@ -93,9 +93,8 @@ endmodule
 
 ### OUTPUT
 ## HALF ADDER:
-![HALF OP](https://github.com/sivaram-R/Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/121165794/ba511ec4-85ae-4e29-85ba-dda83a9fa474)
+![EX3 HALFADDER](https://github.com/sivaram-R/Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/121165794/6cb77dba-3d1c-404a-be7a-8a039d07c9bc)
 ## FULL ADDER:
 ![FULL OP](https://github.com/sivaram-R/Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/121165794/284ca748-8f20-453e-adfb-e63a9ef1ccb4)
-
 ### Result:
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
