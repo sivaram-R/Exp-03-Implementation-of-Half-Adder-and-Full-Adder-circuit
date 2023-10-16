@@ -63,11 +63,11 @@ RegisterNumber:  212222100050
 
 ## HALF ADDER
 ```
-module Experiment03(A,B,S,C);
-input A,B;
-output S,C;
-assign S=A^B;
-assign C=A&B;
+module EX03(a,b,c,s);
+input a,b;
+output s,c;
+assign s=a^b;
+assign c=a&b;
 endmodule
 ```
 ## FULL ADDER
